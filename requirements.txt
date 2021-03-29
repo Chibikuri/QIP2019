@@ -60,7 +60,7 @@ psutil==5.6.7
 ptyprocess==0.6.0 
 pyasn1==0.4.8
 pycparser==2.19
-pygments==2.5.2
+pygments==2.7.4
 pyopenssl==19.1.0
 pyparsing==2.4.5
 pyrsistent==0.15.6
